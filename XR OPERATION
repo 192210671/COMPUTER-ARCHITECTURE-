@@ -1,0 +1,6 @@
+MVI A,06
+MVI B,04
+XRA B
+STA 2500
+HLT
+
